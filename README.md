@@ -1,5 +1,3 @@
-# Homework 1
-
 ## Files/Folders:
 
 * README.md (this file): This file providing information about environment setup for getting started with homework.
